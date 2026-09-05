@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ownproject1\Project Outputs for ownproject1\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-08-26
+Time:       22:48
+Revision:   cfd711c10e60632c8a13a5ad9ea0727bacb29fa6
+Variant:    No variations
+Units used: mm
+
+Designator Comment              Layer    Footprint                      Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                  
+R5         "10 kOhm"            TopLayer FP-AT0402-IPC_A                106.0000     82.7000      180      "Thin Film Chip Resistors Automotive Grade 10kO 0.5% 25ppm/°C 0402"                                                                          
+ANT        ANT1204F005R0915A    TopLayer ANT1204F005R0915A              125.8000     76.7000      270      Antenna                                                                                                                                      
+U2         MPU-6050             TopLayer IS-QFN-24_V                    103.8000     96.9000      90       "3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel" 
+R4         2.2k                 TopLayer FP-RT0402-MFG                  99.3000      91.6000      180      "RES SMD 2.2K OHM 0.1% 1/16W 0402"                                                                                                           
+R3         2.2k                 TopLayer FP-RT0402-MFG                  101.4000     91.6000      0        "RES SMD 2.2K OHM 0.1% 1/16W 0402"                                                                                                           
+R2         "10 kOhm"            TopLayer FP-AT0402-IPC_A                102.6000     80.8000      180      "Thin Film Chip Resistors Automotive Grade 10kO 0.5% 25ppm/°C 0402"                                                                          
+J3         "vibration sensor"   TopLayer 10059401                       100.7000     73.6700      180      Connector                                                                                                                                    
+J2         DNP                  TopLayer TAG_TC2030-IDC-NL              109.8650     73.9300      270      "CABLE ADAPTER 6 POS"                                                                                                                        
+IC2        RN2903A-I_RM105      TopLayer RN2903AIRM105                  127.0000     104.1650     180      "Integrated Circuit"                                                                                                                         
+C12        "100 nF"             TopLayer CAPC1005X55X30NL05T10          99.9000      80.8000      0        ""                                                                                                                                           
+C11        "10 nF"              TopLayer FP-0402-L_1_0_0_05-W_0_5-IPC_A 107.9000     95.0000      90       None                                                                                                                                         
+C10        "100 nF"             TopLayer CAPC1005X55X30NL05T10          107.0000     97.4000      270      ""                                                                                                                                           
+C9         "2n2 F"              TopLayer FP-CC0402-MFG                  100.3000     98.6000      90       "CAP CER 2200PF 10V X7R 0402"                                                                                                                
+C8         "100 nF"             TopLayer CAPC1005X55X30NL05T10          104.6000     100.4000     0        ""                                                                                                                                           
+J1         "from battery"       TopLayer 13791657                       101.2730     114.6960     180      Connector                                                                                                                                    
+Y1         "8 MHz"              TopLayer WE-XTAL_12SMX                  86.9300      87.8000      270      "WE-XTAL Quartz Crystal"                                                                                                                     
+U1         STM32F301K6U6        TopLayer STM-UFQFPN32_L                 101.1720     86.7040      0        "ARM Cortex-M4 32-bit MCU, 32 KB Flash, 16 KB Internal RAM, 24 I/Os, 32-Pin UFQFPN, -40 to 85 degC, Tray"                                    
+Rfbt       "33.2 kOhm"          TopLayer FP-AF0402-IPC_B                85.3504      109.7650     0        "Anti-Sulfurated Chip Resistors Automotive Grade 33.2kO 1% 100ppm/°C 0402"                                                                   
+Rfbb       "10 kOhm"            TopLayer FP-AT0402-IPC_A                88.0650      109.7650     0        "Thin Film Chip Resistors Automotive Grade 10kO 0.5% 25ppm/°C 0402"                                                                          
+R1         "10 kOhm"            TopLayer FP-AT0402-IPC_A                96.2000      93.1000      180      "Thin Film Chip Resistors Automotive Grade 10kO 0.5% 25ppm/°C 0402"                                                                          
+L1         "2.2 uH 15 mOhm"     TopLayer WE-PMFI_322512                 88.0000      101.2000     180      "Power Ind, 2.2UH, 4.1A, Shielded, 1210 Rohs Compliant: Yes"                                                                                 
+IC1        TPS563209DDCR        TopLayer SOT95P280X110-6N               88.5000      106.2000     90       "17 V Input"                                                                                                                                 
+F1         Fuse                 TopLayer FP-OMF_63-MFG                  109.6000     105.3000     270      "FUSE BOARD MNT 5A 63VAC/VDC 2SMD"                                                                                                           
+D2         Schottky             TopLayer FP-DO-214BA-MFG                98.2000      105.1000     270      "HSM160JE3/TR13 Schottky 1.0A, 60V, Vf=0.60V Smcj (Do-214Ab) Rohs Compliant: Yes"                                                            
+D1         TVS                  TopLayer WE-TVSP_DO-214AA_Bidirectional 103.8000     104.9500     90       "TVS diode [Würth Elektronik] 824521181 TVS diode"                                                                                           
+Cout3      "22uF 1 mOhm"        TopLayer FP-GRM319-0_15-IPC_B           87.0490      112.9400     0        "Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 22uF, X5R, 15%, 10%, 16V"                                                     
+Cout2      "22uF 1 mOhm"        TopLayer FP-GRM319-0_15-IPC_B           87.0490      116.1150     0        "Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 22uF, X5R, 15%, 10%, 16V"                                                     
+Cout1      "22 uF 1 mOhm x3"    TopLayer FP-GRM319-0_15-IPC_B           87.0490      119.0360     0        "Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 22uF, X5R, 15%, 10%, 16V"                                                     
+Cin2       "10 uF 5.85 mOhm"    TopLayer FP-GRM21B-0_1-IPC_B            93.0000      104.5000     180      "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X6S, 22%, 20%, 10V"                                                     
+Cin1       "10 uF 5.85 mOhm x2" TopLayer FP-GRM21B-0_1-IPC_B            93.0000      107.4000     180      "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X6S, 22%, 20%, 10V"                                                     
+Cbst       "100 nF 280 mOhm"    TopLayer FP-GCE21B-0_3-MFG              85.5000      106.2000     90       "Ceramic Capacitor 100nF ±20% 100V X7R 0805"                                                                                                 
+C7         "24 pF x2"           TopLayer CAPC1005X55N                   87.3000      82.4000      0        "24 pF Â±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"                                                                               
+C6         CC0402JRNPO9BN240    TopLayer CAPC1005X55N                   88.5000      94.0000      0        "24 pF Â±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"                                                                               
+C5         "100 nF"             TopLayer FP-GCE21B-0_3-MFG              93.3000      83.7000      270      "Ceramic Capacitor 100nF ±20% 100V X7R 0805"                                                                                                 
+C4         "100 nF"             TopLayer FP-GCE21B-0_3-MFG              96.6000      83.9100      270      "Ceramic Capacitor 100nF ±20% 100V X7R 0805"                                                                                                 
+C3         "100 nF"             TopLayer FP-GCE21B-0_3-MFG              106.3000     80.9000      180      "Ceramic Capacitor 100nF ±20% 100V X7R 0805"                                                                                                 
+C2         "100 nF"             TopLayer FP-GCE21B-0_3-MFG              95.0000      89.8000      90       "Ceramic Capacitor 100nF ±20% 100V X7R 0805"                                                                                                 
+C1         "2.2 uF"             TopLayer FP-GRM21B-0_2-e0_2_0_7-IPC_B   92.6000      90.0000      90       "CAP CER 2.2UF 100V X7T 0805"                                                                                                                

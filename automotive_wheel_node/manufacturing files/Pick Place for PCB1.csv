@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\can_ecu_proj\Project Outputs for can_ecu_proj\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-08-26
+Time:       22:54
+Revision:   850b8239af64d08847460dd3a66141976e0b6262
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"TVS3","82357240030","TopLayer","WE-VE_0402","67.1830","87.4950","270","82357240030"
+"TVS2","82357240030","TopLayer","WE-VE_0402","67.1830","85.2090","90","82357240030"
+"R7","60Ohm","TopLayer","RESC0201(0603)_M","68.7070","85.3250","270","60R4 0.05W 1% 0201 (0603 Metric)  SMD"
+"R6","60Ohm","TopLayer","RESC0201(0603)_M","68.7070","87.3950","270","60R4 0.05W 1% 0201 (0603 Metric)  SMD"
+"C16","100pF","TopLayer","FP-CGA1A-0_1-0_03-IPC_B","70.4850","87.3760","90","Cap Ceramic 100pF 16V X7R 20% Pad SMD 0201 125°C Automotive T/R MPN: CGA1A2X7R1C101M030BA"
+"C15","100pF","TopLayer","FP-CGA1A-0_1-0_03-IPC_B","70.4850","85.3440","270","Cap Ceramic 100pF 16V X7R 20% Pad SMD 0201 125°C Automotive T/R MPN: CGA1A2X7R1C101M030BA"
+"C14","4n7F","TopLayer","FP-0201-L_0_6_0_03-W_0_3-IPC_A","69.0880","90.9320","0","EMK063BJ472KP-F"
+"Cl3","10pF","TopLayer","CAPC1005X56X25NL10T15","69.4100","96.6470","0",""
+"Cl2","10pF","TopLayer","CAPC1005X56X25NL10T15","70.7980","101.4730","0",""
+"C8","100nF","TopLayer","CAPC1005X55X30NL05T10","77.0890","97.4090","0","C0402C104Z8VACTU"
+"Y1","24MHz","TopLayer","FP-TSX-3225-MFG","70.1040","99.0600","180","CRYSTAL 24.0000MHZ 9PF SMD"
+"Ureg","TPSM84209RKHR","TopLayer","FP-RKH0009A-MFG","76.4540","118.5705","0","DC DC CONVERTER 1.2-6V"
+"TVS","82357240030","TopLayer","WE-VE_0402","68.7070","118.4830","90","82357240030"
+"Rfbt","10kohm","TopLayer","RESC1005X40X25ML05T10","76.5810","114.0460","90","CRCW040210K0FKED"
+"Rfbb","2.2kohm","TopLayer","RESC1608X55X25LL10T15","79.7560","119.5070","270","Thick Film Resistor, 2.2 KOhm, 100 mW, 50 V, +/- 1%, -55 to 155 degC, 2-Pin SMD (0603), RoHS, Tape and Reel MPN RC0603FR-072K2L"
+"R5","10k","TopLayer","FP-RT0201-MFG","77.2870","98.6790","0","RT0201 10KO 0.05W 50 ppm/°C 0.10% MPN: RT0201BRE0710KL"
+"R4","10k","TopLayer","FP-RT0201-MFG","80.8990","105.4100","180","RT0201 10KO 0.05W 50 ppm/°C 0.10% MPN: RT0201BRE0710KL"
+"R3","3KOhm","TopLayer","FP-RMCF0201-IPC_C","82.8040","106.4263","90","3kO ±5% 0.05W 0201 Thick Film Chip Resistor AEC-Q200 compliant MPN: RMCF0201JT3K00"
+"R2","3KOhm","TopLayer","FP-RMCF0201-IPC_C","85.7250","106.4263","90","3kO ±5% 0.05W 0201 Thick Film Chip Resistor AEC-Q200 compliant MPN:RMCF0201JT3K00"
+"R1","3KOhm","TopLayer","FP-RMCF0201-IPC_C","88.5190","106.4263","90","3kO ±5% 0.05W 0201 Thick Film Chip Resistor AEC-Q200 compliant"
+"PS","VCNL4035X01-GS08","TopLayer","VCNL4035X01GS08","92.9640","106.9340","0","Integrated Circuit"
+"MCU","STM32F303K8T6","TopLayer","QFP80P900X900X160-32N","83.9470","99.4410","0","Integrated Circuit"
+"J1","battery","TopLayer","17762801","58.1580","103.3370","270","Connector"
+"IC1","SN65HVD232QD","TopLayer","SOIC127P600X175-8N","75.8190","86.3600","180","Integrated Circuit"
+"F1","0.75A 0402","TopLayer","FP-F0402G-MFG","67.0560","118.9990","0","original MPN: F0402G0R05FNTR"
+"D1","1A 50V 0402","TopLayer","ONSC-DSN-2-152AC-01_V","70.4065","118.9990","270","Schottky Barrier Diode, 2-Pin DSN, Pb-Free, Tape and Reel"
+"Cout","33uF","TopLayer","FP-C2012-125-0_2-IPC_A","71.1200","114.3000","180","Multilayer Ceramic Capacitors 33µF ±20% 10V X5R SMD 0805 MPN: C2012X5R1A336M125AC"
+"Cin","1uF","TopLayer","CAPC1608X90N","72.3900","118.2370","90","CGA3E3X5R1V105K080AB"
+"Cff","330pF","TopLayer","FP-CGA2B-IPC_A","80.0100","116.7480","90","Cap Ceramic 330pF 50V X7R 10% Pad SMD 0402 +125°C Automotive T/R MPN: CGA2B2X7R1H331K050BA"
+"C11","100nF","TopLayer","CAPC1005X55X30NL05T10","88.6460","93.5990","0","C0402C104Z8VACTU"
+"C10","10uF","TopLayer","WCAP-CSGP_1206_L3.2W1.6H1.6","72.1360","103.8860","0","10µF ±20% 6.3V Ceramic Capacitor X5R 1206 (3216 Metric) MPN: 885012108002"
+"C9","100nF","TopLayer","CAPC1005X55X30NL05T10","77.0400","99.9490","0","C0402C104Z8VACTU"
+"C7","100nF","TopLayer","CAPC1005X55X30NL05T10","77.5970","102.8210","270","C0402C104Z8VACTU"
+"C6","100nF","TopLayer","CAPC1005X55X30NL05T10","96.5200","107.3150","90","C0402C104Z8VACTU"
+"C5","10uF","TopLayer","WCAP-CSGP_1206_L3.2W1.6H1.6","89.7890","90.8050","0","10µF ±20% 6.3V Ceramic Capacitor X5R 1206 (3216 Metric) MPN: 885012108002"
+"C4","100nF","TopLayer","CAPC1005X55X30NL05T10","82.0420","89.6620","270","C0402C104Z8VACTU"
+"AC","H3LIS331DL","TopLayer","LIS3DHTR","84.3280","90.5510","180","Accelerometer"
